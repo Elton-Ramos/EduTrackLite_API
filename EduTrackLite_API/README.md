@@ -1,0 +1,5 @@
+# EduTrackLite_API
+REST API for user enrollment in courses with CRUD operations- Github Link Project
+About This Repository
+
+This repository contains EduTrack Lite API, a lightweight backend system built with Python and FastAPI for managing users, courses, and enrollments. The project supports full CRUD operations, Pydantic validation, and follows a modular structure with separate folders for main.py, schemas/, routes/, and services/. Developed by Elton Ramos as part of the Second Semester Exam at AltSchool Africa under the supervision of Professor Rotimi Akanni, this project demonstrates skills in backend logic, scalable API design, data validation, and clean architecture. It serves as a practical example of professional backend development practices, project organization, and problem-solving in educational web applications.
